@@ -1,5 +1,5 @@
 ul{
-    background-color: yellow;
+    background-color: rgb(255, 196, 0);
     width: 300px;
     height: 250px;
     position: absolute;
@@ -13,8 +13,10 @@ li{
 }
 h1{
     font-size: larger;
+    color:aliceblue;
 }
 body{
-    background-color: rgb(153, 255, 0);
+    background-color: rgb(109, 97, 97);
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
